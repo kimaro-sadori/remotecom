@@ -1,0 +1,3 @@
+@echo off
+echo Testing connection...
+ping google.com
